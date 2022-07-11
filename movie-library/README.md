@@ -29,6 +29,7 @@ Step 3 : Search for the movie of your interest or write some keywords in search 
         -and whenever search box is empty, again playlist start occuring
 
 Step 4 :For adding in playlist-
+       
        1.click on add to playlist button it will take you to top of the page where a message will occur and then click  on 'Click here to add in Favourite Playlist' after that your movie will  added to favourite playlist.
        
        2.A alert occur then click on ok button.
