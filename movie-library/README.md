@@ -36,7 +36,10 @@ Step 4 :For adding in playlist-
 
 
  
- ---there is a seprate favourite playlist for every user and his/her playlist occurs at home sceen according to what he added in it.      
+ ---there is a seprate favourite playlist for every user and his/her playlist occurs at home sceen according to what he added in it.    
+
+
+ Imp* -- Write minimum 6 character password while signing up.  
 
 
 

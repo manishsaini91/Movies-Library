@@ -27,7 +27,12 @@ class Login extends Component{
             // alert("Account Created")
         }).catch((err)=>{
         // console.log(err)
-        alert("Something went wrong")
+        if(this.state.password.length<=5) {
+            alert("Please enter minimum 6 character password")
+        }
+        else{
+            alert("Something went wrong")
+        }
     })
         
     }
